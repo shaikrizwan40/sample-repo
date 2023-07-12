@@ -1,5 +1,5 @@
-i<<<<<<< HEAD
+<<<<<<< HEAD
 Text file created by Branch1
 =======
-Text file added from branch2 as well
+Added by branch2
 >>>>>>> branch2
